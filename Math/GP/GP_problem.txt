@@ -1,1 +1,6 @@
+1. This problem is based on GP sum of n numbers
+https://codeforces.com/contest/1846/problem/E1
 
+-----------------------------------------------------
+
+2.
